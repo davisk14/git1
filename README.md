@@ -1,2 +1,2 @@
 # git1
-learning to git
+repo for learning to git
